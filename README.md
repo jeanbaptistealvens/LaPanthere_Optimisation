@@ -1,9 +1,6 @@
 # LaPanthere
  Optimisez un site web existant
 
-# LaPanthere
- Optimisez un site web existant
-
 Pour information
     - L’outil d’audit utilisé pour améliorer les performances techniques, l’accessibilité, les meilleurs démarches et le CEO  du site La Panthère, agence webdesign est LightHouse. 
     - Etant donné que les parts de marché des moteurs de recherche en France sont très largement dominées par Google avec ses 92%. Il est donc avantageux d’utiliser cet outil crée par Google afin d’obtenir des meilleurs suggestions pour plaire aux robots Google et d’atteindre une meilleure positionnement lors d’une recherche.
